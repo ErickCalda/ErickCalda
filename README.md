@@ -2,7 +2,7 @@
 <div align="center"> 
 <h1 align="center">HI I'M ERICK 👋</h1>
  <img align="center" src="http://imgfz.com/i/CHJmous.png" alt="img">
-  <a href="https://img.shields.io/badge/https%3A%2F%2Fwa.link%2Flqn8xx-whatsapp-blue"> </a>
+  
 
 </div>
 
@@ -15,10 +15,6 @@
 
 
 
-
-</div>
-<div style="background-color: gray; padding: 10px;">
-    <h1 style="font-weight: bold;">Título con Estilo</h1>
 </div>
 
 
