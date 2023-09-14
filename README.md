@@ -8,8 +8,10 @@
 
 <div align="center"> 
 <h1 align="center">TECHNOLOGIES</h1>
- <img align="center" width="60px" height="60px" margin-right: 10px src="http://imgfz.com/i/TyjfGow.png" alt="img">
+ <img align="center" width="60px" height="60px" margin-right: 10px  src="http://imgfz.com/i/TyjfGow.png" alt="img">
+ <p>--</p>
   <img align="center" width="60px" height="60px" margin-right: 10px  src="http://imgfz.com/i/JA4Ugti.png" alt="img">
+ <p>--</p>
     <img align="center" width="60px" height="60px" margin-right: 10px  src="http://imgfz.com/i/H5Zpleg.png" alt="img">
       <img align="center" width="60px" height="60px" margin-right: 10px  src="http://imgfz.com/i/trFmlXU.png" alt="img">
 
