@@ -1,7 +1,7 @@
 
 <div alaing="center"> 
 <h1>HI I'M ERICK 👋</h1>
- <img src="[https://www.facebook.com/photo/?fbid=253830074307830&set=a.253830084307829&__cft__[0]=AZUHKDh1B7gv-prLKhwExF9wWNT6Y0ia-S5vXcOh-NB1jmnVOYTLbUTo-CdoEapYjUQOXoXonNCIJcRJVWWzYhhFEXJZtnmGqRPGUg68OsOe2w&__tn__=EH-R](http://imgfz.com/i/VCqxtbP.png)" alt="img">
+ <img src="http://imgfz.com/i/VCqxtbP.png" alt="img">
 
 </div>
 
