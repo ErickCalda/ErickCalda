@@ -1,7 +1,7 @@
 
 <div align="center"> 
-<h1>HI I'M ERICK 👋</h1>
- <img src="http://imgfz.com/i/CHJmous.png" alt="img">
+<h1 align="center">HI I'M ERICK 👋</h1>
+ <img align="center" src="http://imgfz.com/i/CHJmous.png" alt="img">
 
 </div>
 
