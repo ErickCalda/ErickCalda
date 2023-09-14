@@ -1,9 +1,11 @@
-### Hi there 👋
 
-<!--
-**ErickCalda/ErickCalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div alaing="center"> 
+<h1>HI I'M ERICK 👋</h1>
 
-Here are some ideas to get you started:
+</div>
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
