@@ -2,7 +2,8 @@
 <div align="center"> 
 <h1 align="center">HI I'M ERICK 👋</h1>
  <img align="center" src="http://imgfz.com/i/CHJmous.png" alt="img">
- https://img.shields.io/badge/https%3A%2F%2Fwa.link%2Flqn8xx-Whatsapp-blue
+[ https://img.shields.io/badge/https%3A%2F%2Fwa.link%2Flqn8xx-Whatsapp-blue](https://img.shields.io/badge/https%3A%2F%2Fwa.link%2Flqn8xx-Whatsapp-blue
+)
 
 
 </div>
