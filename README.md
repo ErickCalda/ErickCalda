@@ -1,6 +1,7 @@
 
 <div alaing="center"> 
 <h1>HI I'M ERICK 👋</h1>
+ <img src="https://img2.wallspic.com/crops/7/8/4/6/3/136487/136487-manzana-tecnologia-tabla-barra_de_espacio-oficina-3840x2160.jpg" alt="img">
 
 </div>
 
