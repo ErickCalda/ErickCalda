@@ -5,9 +5,15 @@
   
 
 </div>
-
+<div align="center"> 
 # 💫 About Me:
 👋 Greetings, fellow code voyager! I'm Erick Calda.<br><br>🌌 Navigating the programming universe in search of digital adventures.<br>💡 Turning lines of code into dazzling solutions.<br>🪐 Exploring new technological frontiers and deciphering galactic challenges.<br>🚀 Ever-evolving and collaborating on interstellar open-source projects.<br><br>Join my crew, and let's explore the boundless cyberspace together. Let's make code the force that propels our missions! 👨‍💻🚀🌠<br>
+
+  
+
+</div>
+
+
 
 
 ## 🌐 Socials:
