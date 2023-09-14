@@ -1,7 +1,7 @@
 
 <div alaing="center"> 
 <h1>HI I'M ERICK 👋</h1>
- <img src="https://img2.wallspic.com/crops/7/8/4/6/3/136487/136487-manzana-tecnologia-tabla-barra_de_espacio-oficina-3840x2160.jpg" alt="img">
+ <img src="https://www.facebook.com/photo/?fbid=253830074307830&set=a.253830084307829&__cft__[0]=AZUHKDh1B7gv-prLKhwExF9wWNT6Y0ia-S5vXcOh-NB1jmnVOYTLbUTo-CdoEapYjUQOXoXonNCIJcRJVWWzYhhFEXJZtnmGqRPGUg68OsOe2w&__tn__=EH-R" alt="img">
 
 </div>
 
