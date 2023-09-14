@@ -1,5 +1,5 @@
 
-<div aling="center"> 
+<div align="center"> 
 <h1>HI I'M ERICK 👋</h1>
  <img src="http://imgfz.com/i/CHJmous.png" alt="img">
 
