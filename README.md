@@ -1,7 +1,7 @@
 
 <div aling="center"> 
 <h1>HI I'M ERICK 👋</h1>
- <img src="http://imgfz.com/i/VCqxtbP.png" alt="img">
+ <img src="http://imgfz.com/i/CHJmous.png" alt="img">
 
 </div>
 
